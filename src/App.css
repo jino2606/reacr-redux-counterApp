@@ -1,0 +1,11 @@
+:root{
+    --gradient-color: linear-gradient(45deg, #F8178Dff, #8025C6ff);
+}
+
+
+.custom{
+    border: 1px solid rgb(255, 65, 65) ;
+    box-shadow: 0px 0px 25px 5px #F8178Dff,
+   0px 0px 25px 5px rgb(150, 62, 252);
+    color: rgb(41, 41, 41);
+}
